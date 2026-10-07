@@ -17,9 +17,10 @@
 <picture> <img src="скрины/5.png"> 
 </picture>
 
----
+
+
 ``` csharp
-```
+
 using System;
 
 namespace Игра
