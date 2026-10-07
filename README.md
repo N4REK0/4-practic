@@ -2,19 +2,19 @@
 ## Выполнили студенты группы П25-2.1. Оганджанян Нарек Артёмикович и Хохлов Максим
 ## Тема: Постапокалипсис
 
-<picture> <img src="скрины /1.png"> 
+<picture> <img src="скрины/1.png"> 
 </picture>
 
-<picture> <img src="скрины /2.png"> 
+<picture> <img src="скрины/2.png"> 
 </picture>
 
-<picture> <img src="скрины /3.png"> 
+<picture> <img src="скрины/3.png"> 
 </picture>
 
-<picture> <img src="скрины /4.png"> 
+<picture> <img src="скрины/4.png"> 
 </picture>
 
-<picture> <img src="скрины /5.png"> 
+<picture> <img src="скрины/5.png"> 
 </picture>
 
 ---
