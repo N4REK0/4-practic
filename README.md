@@ -19,6 +19,8 @@
 
 ---
 ```
+``` csharp
+
 using System;
 
 namespace Игра
